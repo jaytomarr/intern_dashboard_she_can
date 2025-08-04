@@ -4,26 +4,30 @@ A modern Flutter app for fundraising interns to track donations, referrals, and 
 
 ## 📱 Screenshots
 
+<div align="center">
+
 ### Signup Screen
-![Signup Screen](screenshots/signup.png)
+<img src="screenshots/signup.png" width="300" alt="Signup Screen">
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+<img src="screenshots/login.png" width="300" alt="Login Screen">
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" width="300" alt="Dashboard">
 
 ### Dashboard (Scrolled View)
-![Dashboard Scrolled](screenshots/dashboard2.png)
+<img src="screenshots/dashboard2.png" width="300" alt="Dashboard Scrolled">
 
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+<img src="screenshots/leaderboard.png" width="300" alt="Leaderboard">
 
 ### Announcements
-![Announcements](screenshots/announcements.png)
+<img src="screenshots/announcements.png" width="300" alt="Announcements">
 
 ### Profile
-![Profile](screenshots/profile.png)
+<img src="screenshots/profile.png" width="300" alt="Profile">
+
+</div>
 
 ## 🛠 Tech Stack
 
