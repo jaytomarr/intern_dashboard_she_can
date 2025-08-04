@@ -4,7 +4,7 @@ A modern Flutter app for fundraising interns to track donations, referrals, and 
 
 ## 📱 Screenshots
 
-<div align="center">
+<div align="left">
 
 ### Signup Screen
 <img src="screenshots/signup.png" width="300" alt="Signup Screen">
@@ -14,9 +14,7 @@ A modern Flutter app for fundraising interns to track donations, referrals, and 
 
 ### Dashboard
 <img src="screenshots/dashboard.png" width="300" alt="Dashboard">
-
-### Dashboard (Scrolled View)
-<img src="screenshots/dashboard2.png" width="300" alt="Dashboard Scrolled">
+<img src="screenshots/dashboard2.png" width="300" alt="Dashboard">
 
 ### Leaderboard
 <img src="screenshots/leaderboard.png" width="300" alt="Leaderboard">
